@@ -1,0 +1,135 @@
+[[WhiteboxTools]]
+arch = "aarch64"
+git-tree-sha1 = "e8b4840b6ed236338fdf4906262b243ec0e519d6"
+os = "macos"
+
+    [[WhiteboxTools.download]]
+    sha256 = "d3ace88d229b4938aed1177add29c94038e7b22c86ba9e40e4e36a391632092a"
+    url = "https://github.com/JuliaBinaryWrappers/WhiteboxTools_jll.jl/releases/download/WhiteboxTools-v2.0.0+0/WhiteboxTools.v2.0.0.aarch64-apple-darwin.tar.gz"
+[[WhiteboxTools]]
+arch = "aarch64"
+git-tree-sha1 = "3d02695e34e6b5467bbbefb75373953d3e6bc683"
+libc = "glibc"
+os = "linux"
+
+    [[WhiteboxTools.download]]
+    sha256 = "b546956ce9af1654a631c084b87bf2cce2926f7c545ee60a4114d099626d0228"
+    url = "https://github.com/JuliaBinaryWrappers/WhiteboxTools_jll.jl/releases/download/WhiteboxTools-v2.0.0+0/WhiteboxTools.v2.0.0.aarch64-linux-gnu.tar.gz"
+[[WhiteboxTools]]
+arch = "aarch64"
+git-tree-sha1 = "beb8d682e083ad0e45797602c853220f7b8e2b8f"
+libc = "musl"
+os = "linux"
+
+    [[WhiteboxTools.download]]
+    sha256 = "28f2779702370dafb55351dc9977d68a8c36b5b7840143d2b23a88fb1aa32f0d"
+    url = "https://github.com/JuliaBinaryWrappers/WhiteboxTools_jll.jl/releases/download/WhiteboxTools-v2.0.0+0/WhiteboxTools.v2.0.0.aarch64-linux-musl.tar.gz"
+[[WhiteboxTools]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0e197db6d8d79c9bae9f6c01615f7a2c0c96f440"
+libc = "glibc"
+os = "linux"
+
+    [[WhiteboxTools.download]]
+    sha256 = "aa9f5b74f14792dea7bd3088db3dc110ffecccb6745012fcfcac0d1ce31135bd"
+    url = "https://github.com/JuliaBinaryWrappers/WhiteboxTools_jll.jl/releases/download/WhiteboxTools-v2.0.0+0/WhiteboxTools.v2.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[WhiteboxTools]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3870279c07e4f0c40e10d45dc9ffccdef1b7e621"
+libc = "musl"
+os = "linux"
+
+    [[WhiteboxTools.download]]
+    sha256 = "3fa7ec7b10630ffc5e0293cd3482cc3f44a6658a27ab73f2fb068f4270f95894"
+    url = "https://github.com/JuliaBinaryWrappers/WhiteboxTools_jll.jl/releases/download/WhiteboxTools-v2.0.0+0/WhiteboxTools.v2.0.0.armv6l-linux-musleabihf.tar.gz"
+[[WhiteboxTools]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "daebd8ff93cd1fe5c69cc08bb6f0496a2b586861"
+libc = "glibc"
+os = "linux"
+
+    [[WhiteboxTools.download]]
+    sha256 = "b639712266538cb9598b8eccbe254ddceb7e51434282d87f0e30736c3c41f046"
+    url = "https://github.com/JuliaBinaryWrappers/WhiteboxTools_jll.jl/releases/download/WhiteboxTools-v2.0.0+0/WhiteboxTools.v2.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[WhiteboxTools]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "cf68490930abe49ae72498aa59e214e6749a6c5a"
+libc = "musl"
+os = "linux"
+
+    [[WhiteboxTools.download]]
+    sha256 = "0bfa8f676513bea2c9862dcca8860eb3c628be3bf4b27b3d6181521d3cef5ddc"
+    url = "https://github.com/JuliaBinaryWrappers/WhiteboxTools_jll.jl/releases/download/WhiteboxTools-v2.0.0+0/WhiteboxTools.v2.0.0.armv7l-linux-musleabihf.tar.gz"
+[[WhiteboxTools]]
+arch = "i686"
+git-tree-sha1 = "6c0cfe1533f1449ccd7e393fc2796a760625a9f2"
+libc = "glibc"
+os = "linux"
+
+    [[WhiteboxTools.download]]
+    sha256 = "b51486b3e7eaee2dc1026bfbfe28c4c5cdc587c9ba2458bbc362611db20f1639"
+    url = "https://github.com/JuliaBinaryWrappers/WhiteboxTools_jll.jl/releases/download/WhiteboxTools-v2.0.0+0/WhiteboxTools.v2.0.0.i686-linux-gnu.tar.gz"
+[[WhiteboxTools]]
+arch = "i686"
+git-tree-sha1 = "d22c3dd1873f395b528c5c00917f6197175cbe43"
+libc = "musl"
+os = "linux"
+
+    [[WhiteboxTools.download]]
+    sha256 = "f71665f174c53b0cc84fb8084f02790c30dcea2e0b8d3a019ec81ee92f584d92"
+    url = "https://github.com/JuliaBinaryWrappers/WhiteboxTools_jll.jl/releases/download/WhiteboxTools-v2.0.0+0/WhiteboxTools.v2.0.0.i686-linux-musl.tar.gz"
+[[WhiteboxTools]]
+arch = "powerpc64le"
+git-tree-sha1 = "3ae2001750c7e61c7b2c1f59a43f1fd1346beaa6"
+libc = "glibc"
+os = "linux"
+
+    [[WhiteboxTools.download]]
+    sha256 = "e16848c670c161357b331c1246e0ca9ba36f1f91a8b29c044b7187e367bda9c3"
+    url = "https://github.com/JuliaBinaryWrappers/WhiteboxTools_jll.jl/releases/download/WhiteboxTools-v2.0.0+0/WhiteboxTools.v2.0.0.powerpc64le-linux-gnu.tar.gz"
+[[WhiteboxTools]]
+arch = "x86_64"
+git-tree-sha1 = "6e7529f1a9d2dc1b131d8817a5c663a17ea062b8"
+os = "macos"
+
+    [[WhiteboxTools.download]]
+    sha256 = "03ef8fa2bc0de2c6018705007bfb369bdeaff2ad1c9e167daf53969532c454fd"
+    url = "https://github.com/JuliaBinaryWrappers/WhiteboxTools_jll.jl/releases/download/WhiteboxTools-v2.0.0+0/WhiteboxTools.v2.0.0.x86_64-apple-darwin.tar.gz"
+[[WhiteboxTools]]
+arch = "x86_64"
+git-tree-sha1 = "9fbca1eca2bbb9536d4aaa5fb6c1e5877f5ad48c"
+libc = "glibc"
+os = "linux"
+
+    [[WhiteboxTools.download]]
+    sha256 = "15060109bd9276a5ab6b14a828dca6813493c4c59e71c403b5fbaf29878cecc1"
+    url = "https://github.com/JuliaBinaryWrappers/WhiteboxTools_jll.jl/releases/download/WhiteboxTools-v2.0.0+0/WhiteboxTools.v2.0.0.x86_64-linux-gnu.tar.gz"
+[[WhiteboxTools]]
+arch = "x86_64"
+git-tree-sha1 = "169d21d75f6782e9dca3cf0ef2c972b2e820053f"
+libc = "musl"
+os = "linux"
+
+    [[WhiteboxTools.download]]
+    sha256 = "bc8460dc4efced706ae0551aa0988f006b5264cae288a6576738c789ff2fd18c"
+    url = "https://github.com/JuliaBinaryWrappers/WhiteboxTools_jll.jl/releases/download/WhiteboxTools-v2.0.0+0/WhiteboxTools.v2.0.0.x86_64-linux-musl.tar.gz"
+[[WhiteboxTools]]
+arch = "x86_64"
+git-tree-sha1 = "8509eff0a94254a5699fa3e873f12b87aa5b5624"
+os = "freebsd"
+
+    [[WhiteboxTools.download]]
+    sha256 = "8e369bef84ed493217a6021787d2809618f32c8ffc882043babeb3e6c0b78eb1"
+    url = "https://github.com/JuliaBinaryWrappers/WhiteboxTools_jll.jl/releases/download/WhiteboxTools-v2.0.0+0/WhiteboxTools.v2.0.0.x86_64-unknown-freebsd.tar.gz"
+[[WhiteboxTools]]
+arch = "x86_64"
+git-tree-sha1 = "df50f31b0ae806bdda72dd50d52e093618f1d648"
+os = "windows"
+
+    [[WhiteboxTools.download]]
+    sha256 = "92bf6f18c45d650831c884b91fe72c0aea43b1d0474bc275455369e9c39a2a48"
+    url = "https://github.com/JuliaBinaryWrappers/WhiteboxTools_jll.jl/releases/download/WhiteboxTools-v2.0.0+0/WhiteboxTools.v2.0.0.x86_64-w64-mingw32.tar.gz"
